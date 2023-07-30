@@ -1,5 +1,7 @@
 Plain workshop downloader made in an hour or so, use it in another project if you want
+
 Works with one or multiple links (hit enter after each link)
+
 
 1. Create a directory called steamcmd here WorkshopDownloader\bin\Debug\net7.0-windows
    Download SteamCMD and put it inside the steamcmd folder
