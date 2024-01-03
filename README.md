@@ -1,4 +1,4 @@
-Plain workshop downloader made in an hour or so, use it in another project if you want
+Plain workshop downloader
 
 Works with one or multiple links (hit enter after each link)
 
